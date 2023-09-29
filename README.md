@@ -9,7 +9,7 @@ I've been on the path of coding for the past 5 years, ranging from angular, ioni
 *   🌍  I'm based in Abuja
 *   🖥️  See my portfolio at [https://www.behance.net/alomajaopemipo](http://https://www.behance.net/alomajaopemipo)
 *   ✉️  You can contact me at [alomajaopemipo8@gmail.com](mailto:alomajaopemipo8@gmail.com)
-*   🚀  I'm currently working on [HUIOSPAY](http://huiospay.com)
+*   🚀  I'm currently working at [HUIOSPAY](http://huiospay.com)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on Available Project<a href="https://www.twitter.com/codez_classic" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/codez_classic?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
